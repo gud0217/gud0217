@@ -1,57 +1,47 @@
 <div align="left">
   
-  🏫 홍익대학교 컴퓨터공학과 <sub>(2020.03 ~ 2026.02)</sub><br/>
+  홍익대학교 컴퓨터공학과 <sub>(2020.03 ~ 2026.02)</sub><br/>
 
-  🖥️ 홍익대학교 컴퓨터공학과 밴드학회 큰소리 웹사이트 개발 BE <sub>(2024.12 ~ now)</sub><br/>
-  🖥️ GDSC Hongik 개발팀 와우디벨로퍼스 BE <sub>(2024.09 ~ now)</sub><br/>
-  🖥️ 신촌연합 IT창업 동아리 CEOS 19기 BE <sub>(2024.03 ~ 2024.08)</sub><br/>
-  🖥️ GDSC Hongik 프로젝트 트랙 1기 BE <sub>(2022.10 ~ 2023.02)</sub><br/>
+  대학생 개발 연합 동아리 UMC 8기 백엔드 파트장<sub>(2025.03 ~ 2025.08)</sub><br/>
+  대학생 개발 연합 동아리 UMC 7기 백엔드 스터디 수료<sub>(2024.09 ~ 2025.02)</sub><br/>
+  대학생 개발 연합 동아리 UMC 6기 웹파트 스터디 수료<sub>(2024.03 ~ 2024.08)</sub><br/>
   <br/>
-  👨‍🏫 GDG Hongik 2025-1 백엔드 파트 리드 <sub>(2025.03 ~ 2025.6)</sub><br/>
-  👨‍🏫 GDSC Hongik 2024-2 초급 백엔드 스터디 멘토 <sub>(2024.09 ~ 2024.12)</sub><br/>
-  👨‍🏫 홍익대학교 알고리즘 학회 HI-ARC 2024-2 초급 스터디장 <sub>(2024.09 ~ 2024.12)</sub><br/>
-  👨‍🏫 홍익대학교 알고리즘 학회 HI-ARC 2024-1 기초 스터디장 <sub>(2024.03 ~ 2024.05)</sub>   
-  <br/>
-  🏆 2025 Blaybus MVP 해커톤 챌린저상 <sub>(2025.02.09 ~ 2025.02.20)</sub><br/>
-  🏆 2022 군장병 온라인 해커톤 한국공개소프트웨어협회장상 <sub>(2022.09.07 ~ 2022.10.30)</sub><br/>
-
-  <hr>
-  
-  🌐 개발 블로그 [Blog. 에버듀](https://chinpa.tistory.com/) <br/>
-  🌐 개인 사이트 [everdu.com](https://everdu.com/) <br/>
-  
-  ✉️ 이메일 kckc0608@naver.com
-
-  <hr>
 
   #### Language
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-  <!-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
   #### Library & Framework
-  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-  <!-- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) -->
-  <!-- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)-->
-  <!-- ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) -->
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/QueryDSL-0769AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+  #### Test & Build
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-4B32C3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
 
   #### CI / CD
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 
   #### Infra & DB
-  <!-- ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) -->
-  <!-- ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) -->
-  <!-- <br> -->
-  ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20RDS-FF9900?style=for-the-badge&logo=amazonrds&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
 
   <hr>
   
-  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kckc0608)](https://solved.ac/kckc0608)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kckc0608)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://solved.ac/gud0217">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=gud0217" alt="solved.ac tier"/>
+  </a>
 </div>
