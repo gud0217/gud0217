@@ -12,7 +12,7 @@
 - [플랜토리](https://github.com/UMC-Plantory/Spring) - 기억으로 꽃 피우는 나만의 정원 일기 앱<sub> (2025.06.30 ~ 2025.08.31)</sub>
 - [장마당](https://github.com/JMarketYard/Back-end) - 래플 방식을 도입해 재미를 더한 중고 거래 플랫폼<sub> (2024.12.30 ~ 2025.05.31)</sub>
 
-
+<!--
 ### Language
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -39,3 +39,4 @@
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
 ![AWS RDS](https://img.shields.io/badge/AWS%20RDS-FF9900?style=flat&logo=amazonrds&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=flat&logo=amazons3&logoColor=white)
+-->
