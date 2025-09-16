@@ -1,4 +1,4 @@
-## [HyungJin Park](https://www.notion.so/26ac5a7d10ae81789395d171b3f3b524?source=copy_link)
+## [HyungJin Park](https://www.notion.so/26ac5a7d10ae81789395d171b3f3b524?source=copy_link) ⭐️
 
 ### Experience
 - AWS Cloud Club Hongik 3기 <sub> (2025.09 ~ Now)</sub>  
