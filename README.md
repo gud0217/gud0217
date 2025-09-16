@@ -1,7 +1,7 @@
 ## [HyungJin Park](https://www.notion.so/26ac5a7d10ae81789395d171b3f3b524?source=copy_link) ⭐️
 
 ### Experience
-- AWS Cloud Club Hongik 3기 <sub> (2025.09 ~ Now)</sub>  
+- AWS Cloud Club Hongik 3기 <sub> (2025.09 ~ Now)</sub>
 - 대학생 개발 연합 동아리 - [UMC](https://umc.makeus.in/) 8기 백엔드 파트장 <sub> (2025.03 ~ 2025.08)</sub>
 - 대학생 개발 연합 동아리 - [UMC](https://umc.makeus.in/) 7기 백엔드 스터디 수료 <sub> (2024.09 ~ 2025.02)</sub>
 - 대학생 개발 연합 동아리 - [UMC](https://umc.makeus.in/) 6기 웹파트 스터디 수료 <sub> (2024.03 ~ 2024.08)</sub>
