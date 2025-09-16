@@ -5,7 +5,7 @@
 - 대학생 개발 연합 동아리 - [UMC](https://umc.makeus.in/) 8기 백엔드 파트장 <sub> (2025.03 ~ 2025.08)</sub>
 - 대학생 개발 연합 동아리 - [UMC](https://umc.makeus.in/) 7기 백엔드 스터디 수료 <sub> (2024.09 ~ 2025.02)</sub>
 - 대학생 개발 연합 동아리 - [UMC](https://umc.makeus.in/) 6기 웹파트 스터디 수료 <sub> (2024.03 ~ 2024.08)</sub>
-- 교내 정보전산원 서버실 근로 <sub> (2024.07 ~ Now)</sub>
+- 교내 정보전산원 서버실 근로 - 교내 홈페이지 리뉴얼 <sub> (2024.07 ~ Now)</sub>
 
 ### Project
 - [회비영](https://github.com/heavyYoung2/BE) - 홍익대학교 컴퓨터공학과 학생들을 위한 통합 관리 플랫폼<sub> (2025.09.01 ~ Now)</sub>
